@@ -11,3 +11,29 @@ localization_priority:
 description: "Power Automate vs Logic Apps"
 ms.collection:  SPCommunity
 ---
+
+## intro
+
+## governance
+
+## adoption concept
+
+### basic training
+
+### good coding practices
+
+### accessibility
+
+### themes
+
+### component libraries
+
+## user satisfaction
+
+## design consistency
+
+## reduced costs
+
+## maker productivity
+
+bla
